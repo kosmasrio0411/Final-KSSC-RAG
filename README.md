@@ -181,20 +181,6 @@ Persentase sitasi yang salah atau tidak relevan terhadap jawaban yang diberikan 
 
 ---
 
-## 📂 Struktur Repository
-
-```text
-.
-├── RAG_Qwen2_5.ipynb
-├── README.md
-├── laporan/
-│   └── Group Project KS SC.pdf
-└── assets/
-    └── visualisasi_hasil/
-```
-
----
-
 ## 👥 Anggota Kelompok
 
 | Nama                | NIM                |
